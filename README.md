@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Buse%20Sarıcayır&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20·%20Researcher%20·%20MSc%20Computer%20Engineering&descAlignY=58&descSize=16&animation=fadeIn"/>
 
 <!-- Typing animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=64B5F6&center=true&vCenter=true&width=600&lines=Deep+Learning+%7C+Computer+Vision+%7C+NLP;Self-Supervised+Learning+%7C+Vision+Transformers;Published+Researcher+%7C+TÜBİTAK+Grantee;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=64B5F6&center=true&vCenter=true&width=600&lines=Deep+Learning+%7C+Machine+Learning+%7C+Computer+Vision+%7C+NLP;Self-Supervised+Learning+%7C+Vision+Transformers;Published+Researcher+%7C+TÜBİTAK+Grantee;Always+learning%2C+always+building+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 

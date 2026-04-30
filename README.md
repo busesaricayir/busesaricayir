@@ -63,10 +63,10 @@ Currently exploring **foundational models** (SAM, DINO, ViT) and **LLM-based app
 |--------|-------------|------|
 | 🛰️ **[EfficientNet Satellite Classification](https://github.com/busesaricayir/eurosat-efficientnet)** | Landform classification using EuroSAT dataset · **Published at CMIS-2025** | EfficientNet, PyTorch |
 | 💬 **[Turkish Sentiment Analysis](https://github.com/busesaricayir/turkish-sentiment-analysis)** | Comparative study: TF-IDF vs Word2Vec vs FastText | ML, NLP, FastText |
-| 🧠 **[Mental Health NLP](https://github.com/busesaricayir/mental-health-nlp)** | Estimating mental health from social media posts using LLMs | LLM, Embeddings |
-| 🧍 **[Fall Detection (TÜBİTAK)](https://github.com/busesaricayir/fall-detection-yolo)** | Real-time elderly fall detection system · **Published in Current Trends in Computing** | YOLOv7/8, PyTorch |
-| 🦺 **[PPE Detection](https://github.com/busesaricayir/ppe-detection)** | AI-based personal protective equipment detection in hazardous areas | YOLOv7/8, OpenCV |
-| 🗺️ **[LBSN Graph Analysis](https://github.com/busesaricayir/lbsn-graph-analysis)** | Graph-based approaches in location-based social networks · **International Conference** | Graph ML |
+| 🚶 **[People Counting & Tracking](https://github.com/busesaricayir/people_counting_system)** | Real-time people counting with reference line crossing detection | YOLOv3, OpenCV, Centroid Tracker |
+| 🚗 **[License Plate Detection](https://github.com/busesaricayir/license-plate-detection)** | ALPR pipeline with YOLOv4 (**90% mAP**) + SRN OCR + DeepSORT tracking | YOLOv4, PaddleOCR, DeepSORT |
+| 😊 **[Facial Expression Recognition](https://github.com/busesaricayir/facial-expression-recognition)** | Real-time 8-class emotion detection using RFB-320 SSD + custom VGG13 on FER+ | VGG13, OpenCV DNN, FER+ |
+
 
 ---
 

@@ -62,7 +62,7 @@ Currently exploring **foundational models** (SAM, DINO, ViT) and **LLM-based app
 | Project | Description | Tech |
 |--------|-------------|------|
 | 🛰️ **[EfficientNet Satellite Classification](https://github.com/busesaricayir/eurosat-efficientnet)** | Landform classification using EuroSAT dataset · **Published at CMIS-2025** | EfficientNet, PyTorch |
-| 💬 **[Turkish Sentiment Analysis](https://github.com/busesaricayir/turkish-sentiment-analysis)** | Comparative study: TF-IDF vs Word2Vec vs FastText | ML, NLP, FastText |
+| 💬 **[Turkish Sentiment Analysis](https://github.com/busesaricayir/turkish-sentiment-analysis)** | Comparative study: TF-IDF vs Word2Vec vs FastText · Word2Vec+LR achieved **91.1% accuracy** | ML, NLP, Gensim |
 | 🚶 **[People Counting & Tracking](https://github.com/busesaricayir/people_counting_system)** | Real-time people counting with reference line crossing detection | YOLOv3, OpenCV, Centroid Tracker |
 | 🚗 **[License Plate Detection](https://github.com/busesaricayir/license-plate-detection)** | ALPR pipeline with YOLOv4 (**90% mAP**) + SRN OCR + DeepSORT tracking | YOLOv4, PaddleOCR, DeepSORT |
 | 😊 **[Facial Expression Recognition](https://github.com/busesaricayir/facial-expression-recognition)** | Real-time 8-class emotion detection using RFB-320 SSD + custom VGG13 on FER+ | VGG13, OpenCV DNN, FER+ |
